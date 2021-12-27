@@ -1,0 +1,1 @@
+CLASSIFIER: TransferCLASSIFIER: Wire transferCLASSIFIER: WithdrawCLASSIFIER: IdenticalCLASSIFIER: DepositCLASSIFIER: RemitancesCLASSIFIER: Hawalla

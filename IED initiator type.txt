@@ -1,0 +1,3 @@
+
+CLASSIFIER:Electric
+CLASSIFIER:Non-ElectricCLASSIFIER: Commercial InitiatorCLASSIFIER: Military InitiatorCLASSIFIER: Improvised InitiatorCLASSIFIER: Projectile Initiating

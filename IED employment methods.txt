@@ -1,0 +1,1 @@
+CLASSIFIER:	carCLASSIFIER: truckCLASSIFIER: remotely piloted vehicleCLASSIFIER: motorcycleCLASSIFIER: vesselCLASSIFIER: UASCLASSIFIER:UUSCLASSIFIER: aircraftCLASSIFIER: droppedCLASSIFIER: thrownCLASSIFIER: driftingCLASSIFIER: surfaceCLASSIFIER: subsurfaceCLASSIFIER: elevated

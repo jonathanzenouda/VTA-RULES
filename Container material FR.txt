@@ -1,0 +1,6 @@
+CLASSIFIER: Carton
+CLASSIFIER: Métal
+CLASSIFIER: Nylon
+CLASSIFIER: Biologique
+CLASSIFIER: plastique
+CLASSIFIER: Caoutchouc

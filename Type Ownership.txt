@@ -1,0 +1,2 @@
+CLASSIFIER:	OwnerCLASSIFIER: UserCLASSIFIER: SuscriberCLASSIFIER: RenterCLASSIFIER: Present on 
+CLASSIFIER:Present inCLASSIFIER: Taken fromCLASSIFIER: In the notebook ofCLASSIFIER: Belongs toCLASSIFIER: In contact withCLASSIFIER: FrequentedCLASSIFIER: PersonalCLASSIFIER: Used

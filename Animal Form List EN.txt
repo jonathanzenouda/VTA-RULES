@@ -1,0 +1,12 @@
+CLASSIFIER: Bone
+CLASSIFIER: Carcass
+CLASSIFIER: Frozen product
+CLASSIFIER: Fur
+CLASSIFIER:Skin
+CLASSIFIER: Head
+CLASSIFIER: Horn
+CLASSIFIER: Ivory full tusk
+CLASSIFIER: Ivory unworked pieces
+CLASSIFIER: Ivory worked pieces
+CLASSIFIER: Live
+CLASSIFIER: Medicinal Product

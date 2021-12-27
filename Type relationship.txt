@@ -1,0 +1,2 @@
+CLASSIFIER:	AliasCLASSIFIER: AssociateCLASSIFIER: NicknameCLASSIFIER: Birth NameCLASSIFIER: ConflictCLASSIFIER: Divorcee NameCLASSIFIER: Existing PersonCLASSIFIER: FamilyCLASSIFIER: Family MemberCLASSIFIER: Father's First NameCLASSIFIER: Father's NameCLASSIFIER: FriendCLASSIFIER: LeaderCLASSIFIER: Maiden NameCLASSIFIER: Married NameCLASSIFIER: MeetingCLASSIFIER: MemberCLASSIFIER: Nickname 
+CLASSIFIER: KunyaCLASSIFIER: OrganisationalCLASSIFIER: Other SpellingCLASSIFIER: ProfessionalCLASSIFIER: TIL CrowningCLASSIFIER: Work Together

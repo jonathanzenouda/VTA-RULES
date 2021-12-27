@@ -1,0 +1,2 @@
+CLASSIFIER:Avion de tourismeCLASSIFIER: cargo 
+CLASSIFIER: avion postalCLASSIFIER: avion privéCLASSIFIER: autre véhicule aérien non habité

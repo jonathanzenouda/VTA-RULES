@@ -1,0 +1,1 @@
+CLASSIFIER:armedCLASSIFIER: un-armedCLASSIFIER: dormantCLASSIFIER: postedCLASSIFIER: non-functionalCLASSIFIER: malfunction

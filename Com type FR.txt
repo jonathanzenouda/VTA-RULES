@@ -1,0 +1,19 @@
+CONCEPT: Appel@
+CONCEPT: tentative d'appel@
+CONCEPT: Appel manqué@
+CONCEPT: Messagerie vocale@
+CONCEPT: SMS@
+CONCEPT: E-mail@
+CONCEPT: Transféré@
+CONCEPT: J'aime@
+CONCEPT: Tweet@
+CONCEPT: Re-tweet@
+CONCEPT: Chat@
+CONCEPT: VoIP@
+CONCEPT: Transfert@
+CONCEPT: Charger@
+CONCEPT: Télécharger@
+CONCEPT: Bluetooth@
+CONCEPT: hôte@
+CONCEPT: Attaque (cyber)@
+CONCEPT: stocké en mémoire

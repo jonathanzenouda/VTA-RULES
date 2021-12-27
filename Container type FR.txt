@@ -1,0 +1,12 @@
+CLASSIFIER: Ventre artificiel
+CLASSIFIER: Box
+CLASSIFIER: Enveloppe de munitions vides
+CLASSIFIER: chambre à air
+CLASSIFIER: Bocal
+CLASSIFIER: Jug
+CLASSIFIER: Animal vivant
+CLASSIFIER: Homme vivant
+CLASSIFIER: Ceinture
+CLASSIFIER: Pipe
+CLASSIFIER: pneu
+CLASSIFIER: Véhicule

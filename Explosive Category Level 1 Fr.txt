@@ -1,0 +1,42 @@
+CLASSIFIER: Dispositif explosif improvisé
+CLASSIFIER: Mine antipersonnel
+CLASSIFIER: Obus d'artillerie
+CLASSIFIER: Bombe
+CLASSIFIER: Car Bomb
+CLASSIFIER: Bombe à fragmentation
+CLASSIFIER: Frais de profondeur
+CLASSIFIER: composants inertes ou explosifs
+CLASSIFIER: Générateur ferroélectrique à commande explosive
+CLASSIFIER: Générateur de compression de flux pompé de manière explosive
+CLASSIFIER: Missile guidé
+CLASSIFIER: Unités de propulsion explosive pour véhicules spatiaux
+CLASSIFIER: Combustible solide
+CLASSIFIER: Composants
+CLASSIFIER: Missile guidé
+CLASSIFIER: Unités de propulsion inerte de véhicules spatiaux
+CLASSIFIER: Combustible solide
+CLASSIFIER: ogives de missiles guidés
+CLASSIFIER: Composants explosifs
+CLASSIFIER: Mine terrestre
+CLASSIFIER: Lettre Bomb
+CLASSIFIER: Mail bomb
+CLASSIFIER: Colis piégé
+CLASSIFIER: Cocktail Molotov
+CLASSIFIER: Bombe à essence
+CLASSIFIER: Pipe Bomb
+CLASSIFIER: Pyrotechnie
+CLASSIFIER: Rockets
+CLASSIFIER: Munitions pour fusées
+CLASSIFIER: Composants de fusée
+CLASSIFIER: Smoke Bomb
+CLASSIFIER: Grenade paralysante
+CLASSIFIER: Torpilles
+CLASSIFIER: Composants
+CLASSIFIER: Inerte ou explosif
+CLASSIFIER: Mine sous-marine
+CLASSIFIER: Composants
+CLASSIFIER: Inert
+CLASSIFIER: explosif
+CLASSIFIER: élimination inerte
+CLASSIFIER: dispositifs d'élimination des explosifs
+CLASSIFIER: Ordnance non explosée

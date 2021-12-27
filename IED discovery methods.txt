@@ -1,0 +1,1 @@
+CLASSIFIER: opticsCLASSIFIER: human eyeCLASSIFIER: dogCLASSIFIER: marine mammalCLASSIFIER: hand-held detectorsCLASSIFIER: vehicle mountedCLASSIFIER: aerial sensorsCLASSIFIER: maritime sensorsCLASSIFIER: local nationalCLASSIFIER: NGO personnelCLASSIFIER: e-mailCLASSIFIER: phone callCLASSIFIER: social media

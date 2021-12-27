@@ -1,0 +1,45 @@
+CLASSIFIER: Dans la zone de stockage général
+CLASSIFIER: compartiment secret sur le véhicule
+CLASSIFIER: Colis d'expédition
+CLASSIFIER: poste général
+CLASSIFIER: Conteneur d'expédition commercial
+CLASSIFIER: Personal Carry
+CLASSIFIER: interne
+CLASSIFIER: Hirondelle
+CLASSIFIER: Sur terre
+CLASSIFIER: en construction
+CLASSIFIER: Electroménager
+CLASSIFIER: Bagages
+CLASSIFIER: Boissons
+CLASSIFIER: Vélo
+CLASSIFIER: Bateau
+CLASSIFIER: Pont
+CLASSIFIER: Bus
+CLASSIFIER: Station de bus
+CLASSIFIER: arrêt de bus
+CLASSIFIER: Pièces de véhicules
+CLASSIFIER: Conteneur
+CLASSIFIER: Cosmétique
+CLASSIFIER: partie électrique
+CLASSIFIER: Courrier express aérien
+CLASSIFIER: Courrier Express DHL
+CLASSIFIER: Courrier Express FEDEX
+CLASSIFIER: Courrier Express IBC
+CLASSIFIER: Emballage par courrier express
+CLASSIFIER: Courrier Express OCS
+CLASSIFIER: Courrier Express TNT
+CLASSIFIER: Courrier Express UPS
+CLASSIFIER: Alimentation
+CLASSIFIER: Fret
+CLASSIFIER: Jardin
+CLASSIFIER: Station d'essence
+CLASSIFIER: Cadeaux
+CLASSIFIER: inséré
+CLASSIFIER: Médecine
+CLASSIFIER: Moto
+CLASSIFIER: Sur le corps
+CLASSIFIER: Outwear
+CLASSIFIER: Postal
+CLASSIFIER: Résidence
+CLASSIFIER: avalé
+CLASSIFIER: Sous-vêtements

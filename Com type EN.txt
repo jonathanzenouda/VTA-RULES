@@ -1,0 +1,1 @@
+CONCEPT:	Call@CONCEPT: Call attempt@CONCEPT: Missed Call@CONCEPT: Voicemail@CONCEPT: SMS@CONCEPT: E-mail@CONCEPT: Forwarded@CONCEPT: Like@CONCEPT: Tweet@CONCEPT: Re-tweet@CONCEPT: Chat@CONCEPT: VoIP@CONCEPT: Transfer@CONCEPT: Upload@CONCEPT: Download@CONCEPT: Bluetooth@CONCEPT: Host@CONCEPT: Attack (cyber)@CONCEPT: Stored in Memory

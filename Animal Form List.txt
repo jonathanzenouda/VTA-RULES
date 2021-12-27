@@ -1,0 +1,3 @@
+CLASSIFIER: OsCLASSIFIER: carcasseCLASSIFIER: Produits congelésCLASSIFIER: Fourrure 
+CLASSIFIER: peauCLASSIFIER: TêteCLASSIFIER: CorneCLASSIFIER: Ivoire 
+CLASSIFIER: défense entièreCLASSIFIER: Pièces en ivoire non travailléesCLASSIFIER: Pièces ouvrées en ivoireCLASSIFIER: Produit vivantCLASSIFIER: Produit médicinal

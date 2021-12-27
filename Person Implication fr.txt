@@ -1,0 +1,12 @@
+CONCEPT: condamné@
+CONCEPT: Charge@
+CONCEPT: Suspect@
+CONCEPT: Antécédents criminels@
+CONCEPT: manquant@
+CONCEPT: Personne non identifiée@
+CONCEPT: Corps non identifié@
+CONCEPT: décédé@
+CONCEPT: menace possible@
+CONCEPT: Sujet à la sanction de l'ONU@
+CONCEPT: Associé@
+CONCEPT: Personne d'intérêt

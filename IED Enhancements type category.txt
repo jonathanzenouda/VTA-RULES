@@ -1,0 +1,1 @@
+CLASSIFIER:	FuelCLASSIFIER: FragmentationCLASSIFIER: Toxin AnimalCLASSIFIER: Toxin PlantCLASSIFIER: Toxin humanCLASSIFIER: Toxin SyntheticCLASSIFIER: ChemicalCLASSIFIER: Toxic Industrial ChemicalCLASSIFIER: Toxic Industrial BiologicalCLASSIFIER: Toxic Industrial RadiologicalCLASSIFIER: Chemical AgentCLASSIFIER: Biological Agent
